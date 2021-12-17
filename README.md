@@ -78,7 +78,7 @@
   - **[La Prise Band](https://lapriseband.web.app/) website**: Band showcase and social media
   - **[Read Things Faster](https://angelica15.web.app/) web**: Site to read word by word, choose speed and themes
 
-### About me
+### 🥐 About me
 
 <div align="center">
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
