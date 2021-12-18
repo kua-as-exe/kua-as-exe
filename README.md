@@ -74,8 +74,8 @@
   
   ### 🔰 Projects
   
-  - **[Instructivo para quemar cocinas](https://instructivoparaquemarcocinas.web.app/)**: Cooking recipies website
-  - **[Cochilorios](https://catalogocochilorios.web.app/) website**: Restaurant catallogue with cart and whatsapp
+  - **[Instructivo para quemar cocinas](https://instructivoparaquemarcocinas.web.app/)**: Cooking recipes website
+  - **[Cochilorios](https://catalogocochilorios.web.app/) website**: Restaurant catalogue with cart and whatsapp
   - **[videomanager](https://github.com/JorgeArreolaS/videomanager) web app**: Manage and edit videos easily
   - **[Auto-Editor-Program](https://github.com/JorgeArreolaS/Auto-Editor-Program) web app**: Generate video elements on demand
   - **[GooglePhotosPyDownloader](https://github.com/JorgeArreolaS/GooglePhotosPyDownloader) script**: Download Google Photos albums easily x2 
