@@ -7,9 +7,6 @@
 
 ### Founder at: <a href="https://temoa.dev">Temoa.dev</a></span>
 
-
-<p>![68747470733a2f2f74656d6f612e6465762f74656d6f612d6c6f676f2e706e67](https://user-images.githubusercontent.com/21228945/154788248-5ff21708-8cf6-4401-8549-615b7ed30aea.png)
-
   <img width="400" align='right' src="https://github-readme-stats.vercel.app/api?username=JorgeArreolaS&theme=github_dark&count_private=true&show_icons=true">
 </p>
 
