@@ -12,8 +12,7 @@
 
 > *Aguacate* (avocado) lover 🥑
 
-- 18 years old
-- 6<sup>th</sup> Semester highschool student
+- 19 years old
 - Puebla México 🇲🇽
 
 > Tech enthusiast
