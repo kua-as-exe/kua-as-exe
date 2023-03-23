@@ -1,11 +1,12 @@
 ## 🥐 Jorge Arreola 🥑
 
-
+<!-- 
 <p>
   <img width="40" align='left' src="https://temoa.dev/temoa-logo.png">
 </p>
 
-### Founder at: <a href="https://temoa.dev">Temoa.dev</a></span>
+### <s>Founder at: <a href="https://temoa.dev">Temoa.dev</a></s> (Currently in maintenance)</span>
+-->
 
   <img width="400" align='right' src="https://github-readme-stats.vercel.app/api?username=JorgeArreolaS&theme=github_dark&count_private=true&show_icons=true">
 </p>
@@ -48,24 +49,24 @@
   </tr>
   <tr>
     <td align="center">
-      Rust lol
-      And Kotlin lmao
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+      <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
+      <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"/>
       <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white"/>
       </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-      <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
       <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
       <img src="https://img.shields.io/badge/strapi-2e7eea?style=for-the-badge&logo=strapi&logoColor=white"/>
       <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
+      <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Cloudflared-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white"/>
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
       <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
       <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
      </td>
   </tr>
@@ -74,12 +75,13 @@
   
   ### 🔰 Projects
   
-  - **[Temoa.dev](https://temoa.dev)**: Learning blogs and videos about tec. News, tutorials and community
+  - **[Invitados.XYZ](https://invitados.xyz/)**: Web platform to manage and share event's digital invites, assistance and entrance by QR ⭐
+  - **[Temoa.dev](https://temoa.dev)**: Learning blogs and videos about tec. News, tutorials and community (Currently in maintenance)
   - **[Cochilorios](https://catalogocochilorios.web.app/) website**: Restaurant catalogue with cart and whatsapp
-  - **[videomanager](https://github.com/JorgeArreolaS/videomanager) web app**: Manage and edit videos easily
+  - **[Video Manager](https://github.com/JorgeArreolaS/videomanager) web app**: Manage and edit videos easily 📽️⭐
+  - **[Instructivo para quemar cocinas](https://instructivoparaquemarcocinas.web.app/)**: Cooking recipes website using Notion as CMS (Currently down) 📽️
   - **[Auto-Editor-Program](https://github.com/JorgeArreolaS/Auto-Editor-Program) web app**: Generate video elements on demand
   - **[GooglePhotosPyDownloader](https://github.com/JorgeArreolaS/GooglePhotosPyDownloader) script**: Download Google Photos albums easily x2 
-  - **[La Prise Band](https://lapriseband.web.app/) website**: Band showcase and social media
   - **[Read Things Faster](https://angelica15.web.app/) web**: Site to read word by word, choose speed and themes
 
 ### 🥐 About me
@@ -92,7 +94,7 @@
   <img src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
-  
+  <img src="https://img.shields.io/badge/Cloudflared-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white"/>
 </div>
 
 <div align="center">
