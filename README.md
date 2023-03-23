@@ -75,7 +75,7 @@
   
   ### 🔰 Projects
   
-  - **[Invitados.XYZ](https://invitados.xyz/)**: Web platform to manage and share event's digital invites, assistance and entrance by QR ⭐
+  - **[Invitados.xyz](https://invitados.xyz/)**: Web platform to manage and share event's digital invites, assistance and entrance by QR ⭐
   - **[Temoa.dev](https://temoa.dev)**: Learning blogs and videos about tec. News, tutorials and community (Currently in maintenance)
   - **[Cochilorios](https://catalogocochilorios.web.app/) website**: Restaurant catalogue with cart and whatsapp
   - **[Video Manager](https://github.com/JorgeArreolaS/videomanager) web app**: Manage and edit videos easily 📽️⭐
