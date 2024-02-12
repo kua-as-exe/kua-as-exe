@@ -13,7 +13,6 @@
 
 > *Aguacate* (avocado) lover 🥑
 
-- 20 years old
 - Puebla México 🇲🇽
 
 > Tech enthusiast
