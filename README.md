@@ -21,10 +21,8 @@
 
 ### 🥂 Social media
 
-[![Jorge Arreola#9334](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/728734859429675028)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorgearreolas/)
 [![jorge_arreolas](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jorge.as.exe/)
-[![Jorge Arreola](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/btzfv0xpa94sy8bolqzp5y7cc?si=1fc52609d39841b2)
-[![Cranki220](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCnUeQ0nEh9toLQ_Pee8FCDA)
 
 ### 🛠 Skills
 
