@@ -7,7 +7,7 @@
 
 ### <s>Founder at: <a href="https://temoa.dev">Temoa.dev</a></s> (Currently in maintenance)</span>
 -->
-  <img width="350" align='right' src="https://github-readme-stats.vercel.app/api?username=JorgeArreolaS&theme=transparent&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&a=b">
+  <img width="350" align='right' src="https://github-readme-stats.vercel.app/api?username=arreola-as-exe&theme=transparent&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&a=b">
 
 </p>
 
