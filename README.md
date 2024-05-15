@@ -1,7 +1,5 @@
 <a href="https://jorge.arreola.studios"><img src="cover.png"/></a>
 
-<h3 align="center">🥐 About me</h3>
-
 <div align="center">
   <img src="https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white"/>
   <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
@@ -11,12 +9,16 @@
   <img src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white"/>
 </div>
 
+<br/>
+
 ### [🔰 Projects & Certificates](https://jorge.arreola.studios)  <img width="350" align='right' src="https://github-readme-stats.vercel.app/api?username=arreola-as-exe&theme=transparent&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&a=b">
 
 ### 🥂 Social media
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorgearreolas/)
 [![jorge_arreolas](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jorge.as.exe/)
+
+<br/>
 
 ### 🛠 Tech Skills
 
@@ -63,6 +65,7 @@
   </tr>
   </table>
   
+<br/>
 
 <div align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arreola-as-exe&theme=github_dark"/>
