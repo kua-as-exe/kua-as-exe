@@ -1,4 +1,4 @@
-<img src="cover.png"/>
+<a href="https://jorge.arreola.studios"><img src="cover.png"/></a>
 
 <h3 align="center">🥐 About me</h3>
 
