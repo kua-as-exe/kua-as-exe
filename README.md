@@ -1,14 +1,13 @@
 <img src="cover.png"/>
 
-### 🥂 Social media   <img width="350" align='right' src="https://github-readme-stats.vercel.app/api?username=arreola-as-exe&theme=transparent&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&a=b">
+### Projects & Certificates at ⇢ [jorge.arreola.studios](https://jorge.arreola.studios)  <img width="350" align='right' src="https://github-readme-stats.vercel.app/api?username=arreola-as-exe&theme=transparent&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&a=b">
+
+### 🥂 Social media
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorgearreolas/)
-
 [![jorge_arreolas](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jorge.as.exe/)
 
-<br/>
-
-### 🛠 Skills
+### 🛠 Tech Skills
 
 <table border="0">
     <tr>
@@ -52,28 +51,15 @@
   </tr>
   </table>
   
-  
-  ### 🔰 Projects
-  
-  - **[Invitados.xyz](https://invitados.xyz/)**: Web platform to manage and share event's digital invites, assistance and entrance by QR ⭐
-  - **[Temoa.dev](https://temoa.dev)**: Learning blogs and videos about tec. News, tutorials and community (Currently in maintenance)
-  - **[Cochilorios](https://catalogocochilorios.web.app/) website**: Restaurant catalogue with cart and whatsapp
-  - **[Video Manager](https://github.com/JorgeArreolaS/videomanager) web app**: Manage and edit videos easily 📽️⭐
-  - **[Instructivo para quemar cocinas](https://instructivoparaquemarcocinas.web.app/)**: Cooking recipes website using Notion as CMS (Currently down) 📽️
-  - **[Auto-Editor-Program](https://github.com/JorgeArreolaS/Auto-Editor-Program) web app**: Generate video elements on demand
-  - **[GooglePhotosPyDownloader](https://github.com/JorgeArreolaS/GooglePhotosPyDownloader) script**: Download Google Photos albums easily x2 
-  - **[Read Things Faster](https://angelica15.web.app/) web**: Site to read word by word, choose speed and themes
-
 ### 🥐 About me
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
   <img src="https://img.shields.io/badge/oh_my_zsh-1A2C34?style=for-the-badge&logo=ohmyzsh&logoColor=white"/>
   <img src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
 </div>
 
 <!---
