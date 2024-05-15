@@ -1,6 +1,17 @@
 <img src="cover.png"/>
 
-### Projects & Certificates at ⇢ [jorge.arreola.studios](https://jorge.arreola.studios)  <img width="350" align='right' src="https://github-readme-stats.vercel.app/api?username=arreola-as-exe&theme=transparent&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&a=b">
+<h3 align="center">🥐 About me</h3>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
+  <img src="https://img.shields.io/badge/oh_my_zsh-1A2C34?style=for-the-badge&logo=ohmyzsh&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white"/>
+</div>
+
+### [🔰 Projects & Certificates](https://jorge.arreola.studios)  <img width="350" align='right' src="https://github-readme-stats.vercel.app/api?username=arreola-as-exe&theme=transparent&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&a=b">
 
 ### 🥂 Social media
 
@@ -51,20 +62,8 @@
   </tr>
   </table>
   
-### 🥐 About me
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
-  <img src="https://img.shields.io/badge/oh_my_zsh-1A2C34?style=for-the-badge&logo=ohmyzsh&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arreola-as-exe&theme=github_dark"/>
 </div>
-
-<!---
-<div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JorgeArreolaS&theme=github_dark"/>
- </div>
- --->
  
