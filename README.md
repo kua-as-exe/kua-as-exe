@@ -1,28 +1,12 @@
-## 🥐 Jorge Arreola 🥑
+<img src="cover.png"/>
 
-<!-- 
-<p>
-  <img width="40" align='left' src="https://temoa.dev/temoa-logo.png">
-</p>
-
-### <s>Founder at: <a href="https://temoa.dev">Temoa.dev</a></s> (Currently in maintenance)</span>
--->
-  <img width="350" align='right' src="https://github-readme-stats.vercel.app/api?username=arreola-as-exe&theme=transparent&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&a=b">
-
-</p>
-
-> *Aguacate* (avocado) lover 🥑
-
-- Puebla México 🇲🇽
-
-> Tech enthusiast
-
-
-
-### 🥂 Social media
+### 🥂 Social media   <img width="350" align='right' src="https://github-readme-stats.vercel.app/api?username=arreola-as-exe&theme=transparent&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&a=b">
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorgearreolas/)
+
 [![jorge_arreolas](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jorge.as.exe/)
+
+<br/>
 
 ### 🛠 Skills
 
