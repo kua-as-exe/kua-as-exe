@@ -1,4 +1,4 @@
-<a href="https://jorge.arreola.studios"><img src="cover.png"/></a>
+<a href="https://jorge.arreola.studio"><img src="cover.png"/></a>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white"/>
@@ -11,7 +11,7 @@
 
 <br/>
 
-### [🔰 Projects & Certificates](https://jorge.arreola.studios)  <img width="350" align='right' src="https://github-readme-stats.vercel.app/api?username=arreola-as-exe&theme=transparent&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&a=b">
+### [🔰 Projects & Certificates](https://jorge.arreola.studio)  <img width="350" align='right' src="https://github-readme-stats.vercel.app/api?username=arreola-as-exe&theme=transparent&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&a=b">
 
 ### 🥂 Social media
 
