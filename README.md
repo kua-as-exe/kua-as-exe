@@ -63,6 +63,6 @@
 <br/>
 
 <div align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arreola-as-exe&theme=github_dark"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kua-as-exe&theme=github_dark"/>
 </div>
  
