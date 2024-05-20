@@ -1,5 +1,5 @@
 <a href="https://jorge.arreola.studio"><img src="cover.png"/></a>
- <img width="350" align='right' src="https://github-readme-stats.vercel.app/api?username=kua-as-exe&theme=transparent&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&a=b">
+ <img width="300" align='right' src="https://github-readme-stats.vercel.app/api?username=kua-as-exe&theme=transparent&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&a=b">
 <div align="center"> 
   <img src="https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white"/>
   <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
